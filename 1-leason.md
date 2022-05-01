@@ -79,6 +79,11 @@ A: How áre you?
 
         book and tracks 4,5,6
 
+#### Queries
+
+- Could you spell that word, please?
+- How do you spell that word?
+
 ## Tiles
 
 1. Miss `/mis/` (single female)
@@ -127,3 +132,7 @@ student ->`/❌(e)student/`
 How are you? -> How áre you? -> How are yoú? -> `/jowar/`
 \
 She's in our math class -> `/chísinor maz clas/`
+
+Is Carla in our Math class? (query)
+\
+Carla is in our Math class, right? (affirmative sentence)
