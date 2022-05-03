@@ -18,7 +18,7 @@ A: Good bye, Mr Medina
 
 A: Hi, Jennifer. How are you?
 \
-B: What's up? Antonio. I'm ok, you? // what's up? = Hello
+B: Hello Antonio. I'm ok, you?
 \
 A: So so.
 \
@@ -36,7 +36,7 @@ Antonio: Hi, Jennifer. She's Mr Medina and he's Carla
 \
 Jennifer: Good afternoon Mr Medina. It's nice to meet you. How are you?
 \
-Jennifer: What's new? Carla. And you? // what's new? = Hello, And you = How are you?
+Jennifer: What's up? Carla.
 \
 Mr Medina: Good afternoon Miss. Jennifer. Nice to meet you, too. I'm very good, thanks
 \

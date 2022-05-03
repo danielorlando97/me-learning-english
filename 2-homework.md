@@ -56,7 +56,7 @@ B: Yes, they're
 
 1. Brad Pitt - cat - eyes = green
 
-Hi, this is the my teacher's pet, Brad Pitt. It is a cat and Its eyes are green
+Hi, this is my teacher's pet, Brad Pitt. It is a cat and Its eyes are green
 
 2. Luis - best friend - hobby
 
@@ -68,15 +68,13 @@ Hi, this is Daniela. She is my girl friend. Her telephone number is 53001492 (fi
 
 4. Eva and Alexis - parents - favorite colors
 
-Hello, this are Eva and Alexis. They are my parents. The blue is his favorite color and green is her favorite color.
+Hello, this are Eva and Alexis. They are my parents. Blue is his favorite color and green is her favorite color. Red is their second favorite color
 
 ## Track 14
 
-| -            | Alison Parker    | Kenji Mori               |
-| ------------ | ---------------- | ------------------------ |
-| work phone   | 4025552301       |                          |
-| cell phone   | 6464861004       | 6435552285               |
-| home phone   |                  | 2129241764               |
-| mail address | aparker1@cup.org | kenjimori09@cambrege.org |
-
-??? como se escribe eso y como distingo O de 0
+| -            | Alison Parker    | Kenji Mori                |
+| ------------ | ---------------- | ------------------------- |
+| work phone   | 4025552301       |                           |
+| cell phone   | 6464861004       | 6435552285                |
+| home phone   |                  | 2129241764                |
+| mail address | aparker1@cup.org | kenjimori09@cambridge.org |
