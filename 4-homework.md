@@ -1,18 +1,18 @@
 ## [link](https://www.perfect-english-grammar.com/this-that-these-those-exercise-1.html)
 
 - **This** is may friend Julie
-- Who is **this**? (On the telephone) (???)
+- Who is **that**? (On the telephone) (calling)
 - **This** book (the one I'm holding) is really good
 - **That**'s my brother, over there.
-- What are **these** (things near you)? (???)
+- What are **these** (things near you)? (near = close != far, He is a close friend)
 - **These** strawberries are delicious (the bowl is in front of me on the table)
 - **This** party is really fun. (We're at the party now)
-- **This** show we saw last week was so depressing (???)
-- (On the telephone) **This** is (your own name) (???)
+- **That** show we saw last week was so depressing
+- (On the telephone) **This** is Daniel
 - I'm really enjoying this (experience that's happening now)
 - **That** painting (that we saw yesterday) was really beautiful
 - I really liked **those** cakes. (I'm talking about the cakes we ate last week)
-- **That**’s a great idea! (the idea you explained to me.) (???)
+- **That**’s a great idea! (the idea you explained to me.)
 - David, **this** is Lukas.
 - Who is **that** woman by the door?
 - **Those** are fabulous trousers!

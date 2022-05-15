@@ -15,7 +15,7 @@
 
 ### A. Listen (don't open the book). Write de words you recognize. Explain what are they talking about.
 
-#### words
+#### Words
 
 Are you from California Jessica?/
 Well my family is from California. I from South Korea originally./
@@ -24,10 +24,24 @@ No, we are not. We are from \_\_\_\_\_/
 It's \_\_\_ language \_\_\_\_ ?/
 Yes, It is.
 
-#### explain
+#### Explanation
 
-Some person ask to Jessica, if she is from California and she answer that her family life `over there`, but she is originally from South Korea.
-The `asking person mother is in South Korea from Seoul` and `to ask` if she is from South Korea, but she is from other city. The person to ask if in this city speaking any language and Jessica answer that yes
+      Nota:
+         - I ask Jessica
+         - He asks Jessica
+         -------------------------------
+         - I live
+         - My family lives
+         - Life = sustantivo, vida
+         - To live = verbo, vivir
+         ------------------------------
+         - To say/answer yes
+         - He said yes
+         - She answers yes
+
+Someone asks Jessica, if she is from California and she answers her family is there, but is originally from South Korea.
+The mother of the person who asks is South Korea, Seoul and That person to ask if Jessica is from Seoul, but she is from other city.
+The last question is if in this city speaking some language and Jessica answer yes
 
 ### B. Track 32 page 16 Ex 2 (book)
 
