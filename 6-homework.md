@@ -4,7 +4,7 @@
 |              | Argentina                        | Argentinian          | Spanish             | Buenos Aires    |
 |              | Brazil                           | Brazilian            | Portuguese          | Brasilia        |
 |              | Canada                           | Canadian             | English, French     | Ottawa          |
-|              | The U.S.                         | American             | English             | Washington D.C. |
+|              | The U.S.                         | US-American          | English             | Washington D.C. |
 |              | Uruguay                          | Uruguayan            | Spanish             | Montevideo      |
 |              | Chile                            | Chilean              | Spanish             | Santiago        |
 |              | Venezuela                        | Venezuelan           | Spanish             | Caracas         |

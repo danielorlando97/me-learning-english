@@ -69,8 +69,8 @@ The last question is if in this city speaking some language and Jessica answer y
    No, they're not. They're from Brazil.\
    Are you from Brazil, too?\
    No, I'm not. I'm from Peru.\
-   So, Are you first language Spanish? \
-   Yes, It's
+   So, Is it first language Spanish? \
+   Yes, It is
 
 #### B
 
@@ -105,7 +105,7 @@ The last question is if in this city speaking some language and Jessica answer y
 | China   | Japan  | Canada  | Morocco  |
 | Turkey  | Brazil | Mexico  | Malaysia |
 | English | Peru   | Mexican | Arabic   |
-| Spanish |        | Chinese |          |
+| Spanish |        |         | Chinese  |
 | Korean  |        |         |          |
 
 | Countries | Nationalities | Language |
