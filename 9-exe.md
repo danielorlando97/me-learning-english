@@ -71,7 +71,7 @@ I see a t-shirt, a shorts, a sneakers, a socks, a blouse, a flip-flop, a book ba
 - What color is that book bag?\
   The book bag is black
 
-- What color is this pent?\
+- What color is this pen?\
   This pent is blue
 
 - What color are those tables?\
