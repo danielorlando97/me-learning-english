@@ -26,6 +26,13 @@
 |                   | kidney beans             | frijoles rojos   |
 |                   | cauliflower              | coliflor         |
 |                   | brocoli                  | brocoli          |
+|                   | onion                    | cebolla          |
+|                   | bell pepper              | pimiento         |
+|                   | garlic                   | ajo              |
+|                   | bell                     | ají              |
+|                   | oil                      | aceite           |
+|                   | sauce                    | sofrito          |
+|                   | olive oil                | aceite de oliva  |
 | Meat/Fish/SeaFood |                          |                  |
 |                   | chicken                  | pollo            |
 |                   | pork                     | puerco           |
@@ -95,7 +102,8 @@
 |                   | mayonnaise               | mayonesa         |
 |                   | ketchup                  | \-               |
 |                   | mustard                  | mostasa          |
-|                   | bby sauce/barbecue sauce | mostasa          |
+|                   | bby sauce/barbecue sauce | balbacoa         |
+|                   | tomato puree             | pure de tomate   |
 | Drinks            |                          |                  |
 |                   | tea                      | te               |
 |                   | juice                    | jugo             |
@@ -144,6 +152,8 @@
 - kilogram of meat / kilogramo
 - pound of fish / libra
 - liter of water / litro
+- tray / bandeja
+- layer of ham / capa
 
 ## Verbs
 
@@ -164,3 +174,4 @@
 | to beat        | batir               |
 | put it to cool | poner a enfriar     |
 | to hot         | calentar            |
+| to melt        | derretir            |
