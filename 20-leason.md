@@ -16,6 +16,7 @@
 |                   | kiwi                     | kiwi             |
 |                   | lemon                    | lemon            |
 |                   | pear                     | pera             |
+|                   | grapefruit               | toronja          |
 | Vegetables        |                          |                  |
 |                   | tomato                   | tomate           |
 |                   | lettuce                  | lechuga          |
@@ -28,11 +29,12 @@
 |                   | brocoli                  | brocoli          |
 |                   | onion                    | cebolla          |
 |                   | bell pepper              | pimiento         |
-|                   | garlic                   | ajo              |
+|                   | garlic/ clove of garlic  | ajo              |
 |                   | bell                     | ají              |
 |                   | oil                      | aceite           |
 |                   | sauce                    | sofrito          |
 |                   | olive oil                | aceite de oliva  |
+|                   | petit pois               | gisantes         |
 | Meat/Fish/SeaFood |                          |                  |
 |                   | chicken                  | pollo            |
 |                   | pork                     | puerco           |
@@ -116,6 +118,8 @@
 |                   | chocolate milkshake      | batido con leche |
 |                   | chocolate smoothie       | batido con yogur |
 
+soup chicken broth
+
 ## Flavors (Sabores)
 
 | name    | spanish                    |
@@ -175,3 +179,5 @@
 | put it to cool | poner a enfriar     |
 | to hot         | calentar            |
 | to melt        | derretir            |
+| to melt        | derretir/ gratinar  |
+| to dye         | teñir               |

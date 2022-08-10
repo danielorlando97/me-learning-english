@@ -11,16 +11,16 @@
 
 #### Main Course
 
-- From Sea to table:
+- From the Sea to your table:
   - two fish fillet (salmon or tuna) and seafood soup
 - Eat My Pets:
-  - 20 cubes of different meats, pork, chicken, beef, lamb, turkey
+  - 20 cubes of different kinds of meats, pork, chicken, beef, lamb, turkey
 - I like animals
   - bbq of vegetables and 3 tropical fruits (banana, mango, guava)
 
 #### Dessert
 
-- One World Without Smiles:
+- A World Without Smiles:
   - one kilogram of candies
 - Frozen:
   - one liter of ice-cream
@@ -34,3 +34,5 @@
 - Beer
 - Soda
 - Coffee
+
+[recept](https://cookpad.com/eeuu/recetas/6968707-arroz-imperial-cubano?ref=search&search_term=cubanas?find_method=search&ref=recipe&via=registration_app_download_intercept)
